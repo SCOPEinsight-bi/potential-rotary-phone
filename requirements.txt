@@ -1,0 +1,9 @@
+pandas
+numpy
+BeautifulSoup
+requests
+re
+csv
+notify_run
+tqdm
+functools
