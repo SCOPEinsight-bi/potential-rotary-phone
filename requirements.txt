@@ -1,9 +1,7 @@
 pandas
 numpy
-BeautifulSoup
+BeautifulSoup4
 requests
-re
-csv
 notify_run
 tqdm
-functools
+
